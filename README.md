@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=600&lines=Hi!+I'm+Christian+%F0%9F%91%8B;Stanford+CS+(AI+Track)+'28;PM+%2B+SWE+intern+at+Microsoft)](https://github.com/christianjkroy)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi!%20I'm%20Christian&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
-👋 Hi! I'm @christianjkroy, a CS student at Stanford University on the Artificial Intelligence track, from Honolulu, Hawaii.
+I'm @christianjkroy, a CS student at Stanford University on the Artificial Intelligence track, from Honolulu, Hawaii.
 
 * 🤔 I'm interested in AI products, product management, and human-computer interaction.
 * 🌱 I was a product manager and software engineer intern at Microsoft (Bing Search) and the Unicode Consortium.
