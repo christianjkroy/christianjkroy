@@ -1,6 +1,6 @@
 <p align="center"><img src="aloha-banner.svg" width="100%" alt="Aloha! I'm Christian" /></p>
 
-I'm a CS student at Stanford University (Class of 2028) on the Artificial Intelligence track, from Honolulu, Hawaii.
+I'm a CS student at Stanford University (Class of 2028) on the Artificial Intelligence track from Honolulu, Hawaii.
 
 * 🤔 I'm interested in product management and software engineering.
 * 🔭 Incoming intern at ??? (Summer 2027)
