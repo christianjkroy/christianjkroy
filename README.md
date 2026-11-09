@@ -7,7 +7,3 @@ I'm a CS student at Stanford University (Class of 2028) on the Artificial Intell
 * 🌱 Previously a product manager and software engineer intern at Microsoft (Summer 2026) and the Unicode Consortium (Summer 2025).
 * 🚀 Projects I'm proud of: [Product Hub](https://github.com/christianjkroy/Product-Hub), [Pascal](https://github.com/christianjkroy/Pascal), [Clean Enough to Recycle?](https://github.com/christianjkroy/Clean-Enough-to-Recycle)
 * 📩 How to reach me: [christianroyhawaii@gmail.com](mailto:christianroyhawaii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christianjkroy/)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,swift,pytorch,tensorflow,azure,gcp,aws,docker,postgres,supabase,git,figma&perline=9" alt="Tools I use" />
-</p>
