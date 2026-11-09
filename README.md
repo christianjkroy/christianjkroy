@@ -4,5 +4,4 @@ I'm Christian, a CS student at Stanford University on the Artificial Intelligenc
 
 * 🤔 I'm interested in product management and software engineering.
 * 🌱 I was a product manager and software engineer intern at Microsoft (Summer 2026) and the Unicode Consortium (Summer 2025).
-* 🚀 Projects I'm proud of: [Pascal](https://github.com/christianjkroy/Pascal), [Product Hub](https://github.com/christianjkroy/Product-Hub), [Clean Enough to Recycle?](https://github.com/christianjkroy/clean-enough-to-recycle)
 * 📫 How to reach me: [christianroyhawaii@gmail.com](mailto:christianroyhawaii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christianjkroy/)
