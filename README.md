@@ -5,4 +5,4 @@ I'm a CS student at Stanford University (Class of 2028) on the Artificial Intell
 * 🤔 I'm interested in product management and software engineering.
 * 🔭 Incoming intern at ??? (Summer 2027)
 * 🌱 Previously a product manager and software engineer intern at Microsoft (Summer 2026) and the Unicode Consortium (Summer 2025).
-* 📫 How to reach me: [christianroyhawaii@gmail.com](mailto:christianroyhawaii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christianjkroy/)
+* 📩 How to reach me: [christianroyhawaii@gmail.com](mailto:christianroyhawaii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christianjkroy/)
