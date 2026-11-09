@@ -1,6 +1,6 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=false&width=500&lines=Aloha!+I'm+Christian+%F0%9F%91%8B" alt="Aloha! I'm Christian" /></p>
+<p align="center"><img src="aloha-banner.svg" width="100%" alt="Aloha! I'm Christian" /></p>
 
-I'm a junior at Stanford University studying CS on the Artificial Intelligence track, from Honolulu, Hawaii.
+I'm a CS student at Stanford University (Class of 2028) on the Artificial Intelligence track, from Honolulu, Hawaii.
 
 * 🤔 I'm interested in product management and software engineering.
 * 🔭 Incoming intern at ??? (Summer 2027)
