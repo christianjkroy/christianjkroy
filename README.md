@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi!%20I'm%20Christian&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=false&width=500&lines=Hi!+I'm+Christian+%F0%9F%91%8B" alt="Hi! I'm Christian" /></p>
 
 I'm @christianjkroy, a CS student at Stanford University on the Artificial Intelligence track, from Honolulu, Hawaii.
 
