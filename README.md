@@ -1,4 +1,4 @@
-<p align="center"><img src="aloha-banner.svg" width="100%" alt="Aloha! I'm Christian" /></p>
+<p align="center"><img src="aloha-banner (1).svg" width="100%" alt="Aloha! I'm Christian" /></p>
 
 I'm a CS student at Stanford University (Class of 2028) on the Artificial Intelligence track, from Honolulu, Hawaii.
 
